@@ -1,0 +1,28 @@
+{
+    "hours": [
+        0,
+        174
+    ],
+    "night_hours": [
+        0,
+        56
+    ],
+    "date": [
+        0,
+        "2024-03-01"
+    ],
+    "temp_bruto": [
+        0
+    ],
+    "temp_neto": [
+        0
+    ],
+    "saved_bruto": [
+        0
+    ],
+    "saved_neto": [{
+        "march_2024" : "~900", "aprill_2024" : ""
+    }
+    ]
+
+}
